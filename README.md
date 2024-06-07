@@ -1,8 +1,8 @@
 # Overview
 
-This is a basic To-Dos list App which where a list of items can be stored. 
+This is a basic To-Dos list App where a list of To-Do items can be stored. 
 
-This ToDo list App will allow users to quickly create a list of To-Do items stored locally in their device
+This ToDo list App will allow users to quickly create a list of To-Do items stored locally in the same device.
 
 [Software Demo Video](https://zoom.us/clips/share/GODdjI_m74LtTx2K0ssXdbecJS9xBwHRqIui7E46tOcXgWZynMa8uDFEVGY4hucxE-1Gj1S3nGhrylyRsQjngNRk.ur9MnQnzB3wFNQL1)
 
